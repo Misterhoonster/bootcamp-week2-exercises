@@ -14,7 +14,7 @@ Now that we've planned out the structure of our database, let's build it! To all
   - Add a name, probably something like `app-name-db` and keep it on the free `Tiny Turtle` plan. You shouldn't need to add any payment information! Press **Select Region**.
   - Select the `US-East-1` as the region and press **Review**. and then **Create Instance**.
   - This should take you back to your list of your created instances (databases). Click on the one you just made.
-  - Under the Details section you should see **Server**, **User & Default database**, and **Password**. These are the credentials you need to connect to the database.
+  - Under the Details section you should see **Server**, **User & Default database**, and **Password**. These are the credentials you need to connect to the database
 
 * Connect to the database
 
